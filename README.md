@@ -1,3 +1,11 @@
+<div align="center">
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=2F9BFF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Victor+Rojas;Software+Engineer+%C2%B7+Odoo+%C2%B7+Full-Stack;Abierto+a+roles+remotos)](https://victor-rojas.vercel.app)
+
+</div>
+
 <h1 align="center">Victor Rojas</h1>
 
 <p align="center">
@@ -8,6 +16,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/victorarojaslira/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:victorarojaslira@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://victor-rojas.vercel.app"><img src="https://img.shields.io/badge/Portfolio-D2824A?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 </p>
 
 ---
