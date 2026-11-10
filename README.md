@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header)
 
-[![Victor Rojas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=2F9BFF&center=true&vCenter=true&width=700&lines=Hola%2C+soy+Victor+Rojas;Software+Engineer+%C2%B7+Odoo+%C2%B7+Full-Stack;Abierto+a+roles+remotos)](https://victor-rojas.vercel.app)
+[![Victor Rojas](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1200&color=2F9BFF&center=true&vCenter=true&width=700&lines=Hi%2C+I%27m+Victor+Rojas;Software+Engineer+%C2%B7+Odoo+%C2%B7+Full-Stack;Open+to+remote+roles;Hola%2C+soy+Victor+Rojas;Abierto+a+roles+remotos)](https://victor-rojas.vercel.app)
 
 </div>
 
