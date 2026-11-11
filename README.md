@@ -25,7 +25,7 @@ Lead a team of five developers at **3D Vision, C.A.**, an Odoo consultancy servi
 
 ## Focus
 
-- **Odoo:** Point of Sale in OWL/JavaScript, multi-currency and regulated fiscal invoicing, fiscal-printer integration over a serial protocol, multi-company inventory and accounting, and version migrations across 10+ projects.
+- **Odoo:** Point of Sale in OWL/JavaScript, multi-currency and regulated fiscal invoicing, fiscal-printer integration over a serial protocol, multi-company inventory and accounting. 40+ Odoo projects, with version migrations across 15+ of them.
 - **Full-stack:** React and TypeScript front-ends, FastAPI and PostgreSQL back-ends, Docker-based deployment.
 - **Applied AI:** LLM integrations with the Claude API, text-to-SQL agents, and automation of development workflows with Claude Code.
 
